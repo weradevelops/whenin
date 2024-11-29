@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whenin/static/css/main.6ef4d03b.css",
+    "main.js": "/whenin/static/js/main.41359393.js",
+    "static/media/background.png": "/whenin/static/media/background.44470d7c86ccd022d6d1.png",
+    "static/media/colosseum.png": "/whenin/static/media/colosseum.57d7d46f19620ab21017.png",
+    "index.html": "/whenin/index.html",
+    "main.6ef4d03b.css.map": "/whenin/static/css/main.6ef4d03b.css.map",
+    "main.41359393.js.map": "/whenin/static/js/main.41359393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef4d03b.css",
+    "static/js/main.41359393.js"
+  ]
+}
